@@ -1,6 +1,6 @@
 # Overview
 
-This repository aims to simplify seting up [localstack](https://github.com/localstack/localstack) on a Mac or Linux distribution. Once localstack is installed, you can use the provided Terraform scripts setup some basic infrastructure to test on your local system. More Terraform resources will be added in the future!
+This repository aims to simplify seting up [localstack](https://github.com/localstack/localstack) on a Mac or Linux distribution. Once localstack is installed, you can use the provided Terraform scripts to setup some basic infrastructure to test on your local system. More Terraform resources will be added in the future!
 
 ## Prerequisites
 
